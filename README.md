@@ -1,8 +1,8 @@
 ## Meu nome é Karina 💅
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaAlmeid4&show_icons=true&theme=chartreuse-red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaAlmeid4&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaAlmeid4&hide&theme=chartreuse-red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaAlmeid4&hide&theme=chartreuse-dark)
 
 ## About me
 
