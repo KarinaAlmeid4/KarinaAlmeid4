@@ -1,8 +1,14 @@
-## Meu nome é Karina, sou chata 💅
+## Meu nome é Karina 💅
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaAlmeid4&show_icons=true&theme=chartreuse-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaAlmeid4&show_icons=true&theme=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaAlmeid4&hide&theme=chartreuse-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaAlmeid4&hide&theme=chartreuse-rose)
+
+## About me
+
+🥱 18y
+⭐ Look the little details...
+😉 Sou igual montanha russa, comigo você desce gritando e sobe sorrindo
 
 ## Formação acadêmica 📚
 
